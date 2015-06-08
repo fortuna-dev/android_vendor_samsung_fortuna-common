@@ -36,8 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortunave-common/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/fortunave-common/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
     vendor/samsung/fortunave-common/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/samsung/fortunave-common/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
-    vendor/samsung/fortunave-common/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
     vendor/samsung/fortunave-common/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
     vendor/samsung/fortunave-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/samsung/fortunave-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
