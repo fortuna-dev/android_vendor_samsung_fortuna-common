@@ -19,4 +19,4 @@ PRODUCT_PACKAGES += \
     libTimeService \
     TimeService
 
-$(call inherit-product, vendor/samsung/fortunave-common/fortunave-common-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/fortuna-common/fortuna-common-vendor-blobs.mk)
