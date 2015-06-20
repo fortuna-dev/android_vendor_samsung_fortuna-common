@@ -77,6 +77,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortunave-common/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
     vendor/samsung/fortunave-common/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/fortunave-common/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
+    vendor/samsung/fortunave-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/fortunave-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/fortunave-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/samsung/fortunave-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
