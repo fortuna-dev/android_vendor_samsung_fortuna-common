@@ -69,7 +69,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/samsung/fortuna-common/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
     vendor/samsung/fortuna-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/samsung/fortuna-common/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
     vendor/samsung/fortuna-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/fortuna-common/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/fortuna-common/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
