@@ -74,6 +74,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/fortuna-common/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/fortuna-common/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
+    vendor/samsung/fortuna-common/proprietary/lib/libwcnftms.so:system/lib/libwcnftms.so \
     vendor/samsung/fortuna-common/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/fortuna-common/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
@@ -83,7 +84,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libactuator_dw9804_kleos_camcorder.so:system/vendor/lib/libactuator_dw9804_kleos_camcorder.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libactuator_dw9804_kleos_camera.so:system/vendor/lib/libactuator_dw9804_kleos_camera.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
@@ -138,11 +145,16 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libdsucsd.so:system/vendor/lib/libdsucsd.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libExtendedExtractor.so:system/vendor/lib/libExtendedExtractor.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
@@ -158,6 +170,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libqct_resampler.so:system/vendor/lib/libqct_resampler.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
@@ -166,9 +179,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
