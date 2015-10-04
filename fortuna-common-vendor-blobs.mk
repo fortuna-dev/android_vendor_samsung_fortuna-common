@@ -90,6 +90,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/fortuna-common/proprietary/lib/libwcnftms.so:system/lib/libwcnftms.so \
     vendor/samsung/fortuna-common/proprietary/lib/libwvm.so:system/lib/libwvm.so \
+    vendor/samsung/fortuna-common/proprietary/vendor/firmware/keymaste.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/samsung/fortuna-common/proprietary/vendor/firmware/keymaste.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/samsung/fortuna-common/proprietary/vendor/firmware/keymaste.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/samsung/fortuna-common/proprietary/vendor/firmware/keymaste.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/samsung/fortuna-common/proprietary/vendor/firmware/keymaste.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/fortuna-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
