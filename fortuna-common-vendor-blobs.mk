@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/samsung/fortuna-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/samsung/fortuna-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
+    vendor/samsung/fortuna-common/proprietary/bin/macloader:system/bin/macloader \
     vendor/samsung/fortuna-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/samsung/fortuna-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/samsung/fortuna-common/proprietary/bin/netmgrd:system/bin/netmgrd \
@@ -38,6 +39,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
     vendor/samsung/fortuna-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/samsung/fortuna-common/proprietary/bin/time_daemon:system/bin/time_daemon \
+    vendor/samsung/fortuna-common/proprietary/bin/usbhub:system/bin/usbhub \
+    vendor/samsung/fortuna-common/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/samsung/fortuna-common/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/fortuna-common/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
     vendor/samsung/fortuna-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
