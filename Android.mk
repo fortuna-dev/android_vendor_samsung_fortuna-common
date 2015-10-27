@@ -17,7 +17,7 @@
 LOCAL_PATH := $(call my-dir)
 
 ifeq ($(BOARD_VENDOR),samsung)
-ifneq ($(filter fortunave3g fortuna3gdtv fortunalte fortunaltectc fortunaltezh fortunaltezt grandprimelte,$(TARGET_DEVICE)),)
+ifneq ($(filter fortuna3g fortunave3g fortuna3gdtv fortunalte fortunaltectc fortunaltezh fortunaltezt grandprimelte,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libtime_genoff
