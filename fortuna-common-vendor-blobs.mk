@@ -95,6 +95,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna-common/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/fortuna-common/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/fortuna-common/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
+    vendor/samsung/fortuna-common/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/fortuna-common/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
     vendor/samsung/fortuna-common/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/fortuna-common/proprietary/lib/libwcnftms.so:system/lib/libwcnftms.so \
