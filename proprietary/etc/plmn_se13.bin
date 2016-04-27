@@ -95,11 +95,13 @@ Telekom HU"THU
 22603
 TELEKOM.RO"TELEKOM
 
-22605RO Digi.Mobil"Digi
+22605
+RO Digi.Mobil"Digi
 
 22610	RO ORANGE"ORANGE
  
-22615RO 2K Telecom"RO 2KT
+22615
+RO 2K Telecom"RO 2KT
 
 22801Swisscom"Swisscom
 
@@ -199,9 +201,11 @@ Telenor SE"TelenorS
 
 24202N NetCom"NetCom
 "
-24204Mobile Norway"Mobile N
+24204
+Mobile Norway"Mobile N
 "
-24205Mobile Norway"Mobile N
+24205
+Mobile Norway"Mobile N
 
 24208NORTD"TD
 
@@ -215,7 +219,8 @@ Telenor SE"TelenorS
 
 24414FI AMT"FI AMT
 "
-24436DNA-Sonera FI"SuomenYV
+24436
+DNA-Sonera FI"SuomenYV
 
 24491	FI SONERA"SONERA
 
@@ -371,7 +376,8 @@ vodafone P"voda P
 
 28201GEO-GEOCELL"GCELL
 
-28202MAGTI-GSM-GEO"MAGTI
+28202
+MAGTI-GSM-GEO"MAGTI
 
 28204
 BEELINE GE"BEELINE
@@ -421,7 +427,8 @@ Telenor BG"Telenor
 29501
 SwisscomFL"Swiss FL
 
-29502Liechtenstein"Salt
+29502
+Liechtenstein"Salt
 
 29505FL1"FL1
 
@@ -531,7 +538,8 @@ US PLATEAU"PLATEAU
 
 310590Verizon"Verizon
 #
-310630USA AmeriLink"AMERLINK
+310630
+USA AmeriLink"AMERLINK
 
 310650Jasper"Jasper
 
@@ -559,9 +567,11 @@ US PLATEAU"PLATEAU
 
 311030Indigo"Indigo
 "
-311040USA - Commnet"Commnet
+311040
+USA - Commnet"Commnet
 #
-311080Pine Cellular"PINECell
+311080
+Pine Cellular"PINECell
 
 311090USASXLP"SXLP
 
@@ -582,7 +592,8 @@ Wilkes USA"WILKES
 
 311530USANW"USANW
 !
-311540USA Proximiti"ProxMo
+311540
+USA Proximiti"ProxMo
 
 311580U.S.Cellular"USCC
 
@@ -590,7 +601,8 @@ Wilkes USA"WILKES
 $
 311710Northeast Wireless"NEWN
 !
-311730USA Proximiti"ProxMo
+311730
+USA Proximiti"ProxMo
 "
 311810Bluegrass Wireless"BW
 
@@ -644,7 +656,8 @@ NetGenuity"NetGenui
 
 348170LIME"LIME
 !
-348570CCT Boatphone"CCTBVI
+348570
+CCT Boatphone"CCTBVI
 
 350000CELLONE"CELLONE
 
@@ -701,7 +714,8 @@ AW Digicel"Digicel
 
 376350LIME"LIME
 #
-376360IslandCom TCI"Islandco
+376360
+IslandCom TCI"Islandco
 
 40001AZEAC"Azercell
 
@@ -1436,7 +1450,8 @@ KGT-Online"KGT
 
 51008AXIS"AXIS
 
-51010IND TELKOMSEL"T-SEL
+51010
+IND TELKOMSEL"T-SEL
 
 51021IND INDOSAT"INDOSAT
 
@@ -1484,7 +1499,8 @@ KGT-Online"KGT
 
 52505StarHub"StarHub
 "
-52507SGP Call Zone"CallZone
+52507
+SGP Call Zone"CallZone
 
 52802PCSB"PCSB
 
@@ -1503,7 +1519,8 @@ BRU-DSTCom"DSTCom
 
 53901U-CALL"U-CALL
 !
-53988Digicel Tonga"Digicel
+53988
+Digicel Tonga"Digicel
 
 54002bmobile"bmobile
 
@@ -1613,7 +1630,8 @@ MALITEL ML"MALITEL
 
 61501TG-TOGO CELL"TGCELL
 "
-61503ETISALAT TOGO"ETISALAT
+61503
+ETISALAT TOGO"ETISALAT
 #
 61602ETISALAT BENIN"ETISALAT
 
@@ -1696,7 +1714,8 @@ Unitel STP"Unitel
 
 62910COG MTN"MTN-CG
 !
-63001Vodacom Congo"VODACOM
+63001
+Vodacom Congo"VODACOM
 
 63002Airtel"Airtel
 
@@ -1760,7 +1779,8 @@ MTN-UGANDA"MTN-UG
 
 64111Uganda Telecom"UTL
 
-64114ORANGE UGANDA"OUL
+64114
+ORANGE UGANDA"OUL
 
 64118
 Suretelcom"suretel
@@ -1897,7 +1917,8 @@ VodaCom-SA"VODA
 
 71617PERN3"entel
 "
-72207AR - Movistar"Movistar
+72207
+AR - Movistar"Movistar
 !
 722010AR - TEFMVNO"TEFMVNO
 
@@ -1934,13 +1955,17 @@ TIM BRASIL"TIM
 
 72431Oi"Oi
 
-72432Algar Telecom"Algar
+72432
+Algar Telecom"Algar
 
-72433Algar Telecom"Algar
+72433
+Algar Telecom"Algar
 
-72434Algar Telecom"Algar
+72434
+Algar Telecom"Algar
  
-72439Nextel Brasil"Nextel
+72439
+Nextel Brasil"Nextel
 
 73001	ENTEL PCS"ENTEL
 
@@ -2006,7 +2031,8 @@ TIM BRASIL"TIM
 
 74807Movistar"Movistar
 "
-74810CLARO URUGUAY"CLARO UY
+74810
+CLARO URUGUAY"CLARO UY
 
 750001Sure FLK"Sure
 
